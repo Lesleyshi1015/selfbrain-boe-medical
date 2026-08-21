@@ -144,7 +144,7 @@ class TimeWeaveMemoryEngine:
             "total": len(results),
             "query": query,
             "summary": summary,
-            "token_estimate": "~82 tokens (L1 summary)",
+            "token_estimate": "~82 tokens (memory summary)",
         }
     
     def recall(self, memory_id: str) -> Dict:
@@ -224,7 +224,7 @@ def demo_capability_2_timeline(engine: TimeWeaveMemoryEngine, patient_id: str):
 
 def demo_capability_3_qa_retrieval(engine: TimeWeaveMemoryEngine, patient_id: str):
     """Capability 3: Q&A Retrieval"""
-    print_section("Capability 3: Q&A Retrieval (L1)")
+    print_section("Capability 3: Q&A Retrieval")
     
     questions = [
         f"{patient_id} medication",
@@ -255,7 +255,7 @@ def demo_capability_3_qa_retrieval(engine: TimeWeaveMemoryEngine, patient_id: st
 
 def demo_capability_4_risk_assessment(engine: TimeWeaveMemoryEngine, patient_id: str):
     """Capability 4: Risk Assessment (Simplified)"""
-    print_section("Capability 4: Risk Assessment (L2.7 Prediction)")
+    print_section("Capability 4: Risk Assessment")
     
     timeline = engine.get_timeline(patient_id)
     
@@ -443,8 +443,8 @@ def main():
     print_info("[*] Capability Summary:")
     print("      1. [OK] Long-term Health Record Memory - 12-month recall")
     print("      2. [OK] Disease Timeline Reconstruction - Visit/Lab/Medication sequence")
-    print("      3. [OK] Q&A Retrieval (L1) - Symptom/Medication/Lab meaning")
-    print("      4. [OK] Risk Assessment (L2.7) - Symptom-based risk estimation")
+    print("      3. [OK] Q&A Retrieval - Symptom/Medication/Lab meaning")
+    print("      4. [OK] Risk Assessment - Symptom-based risk estimation")
     print()
     print_info("[*] Delivery Path:")
     print(f"      {DEMO_DIR}")
