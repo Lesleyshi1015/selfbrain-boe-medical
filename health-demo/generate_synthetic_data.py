@@ -118,7 +118,7 @@ def generate_records(patient: Dict, months: int = 12) -> List[Dict[str, Any]]:
             "record_type": "就诊/检查/用药",
             "content": "脱敏后文本",
             "sensitive_removed": ["姓名","身份证","联系方式"],
-            "permission_level": "L2",
+            "permission_level": "DOCTOR",
             "timestamp": "2026-08-15T10:30:00"
         }]
     }
@@ -208,7 +208,7 @@ def generate_records(patient: Dict, months: int = 12) -> List[Dict[str, Any]]:
             "record_type": "就诊",
             "content": content,
             "sensitive_removed": ["姓名", "身份证", "联系方式", "住址", "电话号码"],
-            "permission_level": "L2",
+            "permission_level": "DOCTOR",
             "timestamp": current_date.strftime("%Y-%m-%dT%H:%M:%S"),
             "metadata": {
                 "visit_type": visit_type,
@@ -245,7 +245,7 @@ def generate_records(patient: Dict, months: int = 12) -> List[Dict[str, Any]]:
                 "record_type": "检查",
                 "content": "".join(lab_content_parts),
                 "sensitive_removed": ["姓名", "身份证", "联系方式"],
-                "permission_level": "L2",
+                "permission_level": "DOCTOR",
                 "timestamp": current_date.strftime("%Y-%m-%dT%H:%M:%S"),
                 "metadata": {
                     "lab_tests": True,
@@ -271,7 +271,7 @@ def generate_records(patient: Dict, months: int = 12) -> List[Dict[str, Any]]:
         "record_type": "就诊",
         "content": profile_content,
         "sensitive_removed": ["姓名", "身份证", "联系方式", "住址"],
-        "permission_level": "L1",
+        "permission_level": "PUBLIC",
         "timestamp": now.strftime("%Y-%m-%dT%H:%M:%S"),
         "metadata": {
             "profile": True,
