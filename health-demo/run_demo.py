@@ -19,11 +19,6 @@ if sys.platform == 'win32':
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
 
-DEMO_DIR = Path(__file__).parent
-PROJECT_SRC = r"F:\memory-palace-v3.0\src"
-
-if str(PROJECT_SRC) not in sys.path:
-    sys.path.insert(0, str(PROJECT_SRC))
 
 
 class Colors:
