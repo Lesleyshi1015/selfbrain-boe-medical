@@ -1,0 +1,2648 @@
+{
+  "patients": [
+    {
+      "patient_id": "P-2026-0001",
+      "records": [
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：心悸, 视力模糊, 乏力。体征：血压 149/100 mmHg，体重 81.1 kg。建议继续当前治疗方案，定期复查。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-08-25T00:00:00",
+          "metadata": {
+            "visit_type": "体检",
+            "symptoms": [
+              "心悸",
+              "视力模糊",
+              "乏力"
+            ],
+            "vitals": [
+              "血压 149/100 mmHg",
+              "体重 81.1 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：乏力, 头晕。体征：血压 140/90 mmHg，体重 80.5 kg。用药调整：换药 苯磺酸氨氯地平片 5mg qd。建议加强生活方式干预，控制饮食，增加运动。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-10-12T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [
+              "乏力",
+              "头晕"
+            ],
+            "vitals": [
+              "血压 140/90 mmHg",
+              "体重 80.5 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。体征：血压 123/90 mmHg，体重 81.0 kg。建议继续当前治疗方案，定期复查。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-11-29T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "血压 123/90 mmHg",
+              "体重 81.0 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：头晕。体征：血压 120/83 mmHg，体重 80.1 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-01-07T00:00:00",
+          "metadata": {
+            "visit_type": "体检",
+            "symptoms": [
+              "头晕"
+            ],
+            "vitals": [
+              "血压 120/83 mmHg",
+              "体重 80.1 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：心悸, 头晕。体征：血压 117/82 mmHg，体重 80.3 kg。建议加强生活方式干预，控制饮食，增加运动。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-02-22T00:00:00",
+          "metadata": {
+            "visit_type": "急诊",
+            "symptoms": [
+              "心悸",
+              "头晕"
+            ],
+            "vitals": [
+              "血压 117/82 mmHg",
+              "体重 80.3 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：头痛, 头晕。体征：血压 104/76 mmHg，体重 81.3 kg。建议加强生活方式干预，控制饮食，增加运动。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-04-07T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [
+              "头痛",
+              "头晕"
+            ],
+            "vitals": [
+              "血压 104/76 mmHg",
+              "体重 81.3 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：头痛, 头晕。体征：血压 102/81 mmHg，体重 81.7 kg。用药调整：换药 苯磺酸氨氯地平片 5mg qd。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-05-18T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [
+              "头痛",
+              "头晕"
+            ],
+            "vitals": [
+              "血压 102/81 mmHg",
+              "体重 81.7 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0001检验报告。检验项目：  - 血压测量: 109/79 mmHg [↑异常]  - 心电图: 9.7 - [正常]  - 肾功能: 9.0 μmol/L [正常]  - 尿常规: 3.3 - [↑异常]",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-05-18T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：视力模糊, 头晕。体征：血压 115/80 mmHg，体重 80.9 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-06-28T00:00:00",
+          "metadata": {
+            "visit_type": "体检",
+            "symptoms": [
+              "视力模糊",
+              "头晕"
+            ],
+            "vitals": [
+              "血压 115/80 mmHg",
+              "体重 80.9 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0001检验报告。检验项目：  - 血压测量: 108/78 mmHg [正常]  - 心电图: 9.8 - [↑异常]  - 肾功能: 9.0 μmol/L [正常]  - 尿常规: 5.4 - [↑异常]",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-06-28T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：头痛。体征：血压 114/74 mmHg，体重 81.2 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-08-16T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [
+              "头痛"
+            ],
+            "vitals": [
+              "血压 114/74 mmHg",
+              "体重 81.2 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者档案：P-2026-0001\n年龄：58岁，性别：男\n主诉：反复头晕、头痛3年，加重1个月\n诊断：原发性高血压2级（中危）\n基础疾病：高血压, 高脂血症, 轻度脂肪肝\n当前用药：苯磺酸氨氯地平片 5mg qd, 阿托伐他汀钙片 20mg qn\n过敏史：无已知药物过敏\n--- 合成演示数据 | 京东方AI黑客松 2026 ---",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址"
+          ],
+          "permission_level": "L1",
+          "timestamp": "2026-08-20T00:00:00",
+          "metadata": {
+            "profile": true
+          }
+        }
+      ],
+      "profile": {
+        "age": 58,
+        "gender": "男",
+        "diagnosis": "原发性高血压2级（中危）",
+        "conditions": [
+          "高血压",
+          "高脂血症",
+          "轻度脂肪肝"
+        ],
+        "current_medications": [
+          "苯磺酸氨氯地平片 5mg qd",
+          "阿托伐他汀钙片 20mg qn"
+        ]
+      }
+    },
+    {
+      "patient_id": "P-2026-0002",
+      "records": [
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.7 kg。病情稳定，继续保持。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-08-25T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 60.7 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.4 kg。建议加强生活方式干预，控制饮食，增加运动。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-09-23T00:00:00",
+          "metadata": {
+            "visit_type": "体检",
+            "symptoms": [],
+            "vitals": [
+              "体重 60.4 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0002检验报告。检验项目：",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-09-23T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.8 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-10-22T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 60.8 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0002检验报告。检验项目：",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-10-22T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 61.0 kg。建议继续当前治疗方案，定期复查。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-11-23T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 61.0 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 61.0 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-12-24T00:00:00",
+          "metadata": {
+            "visit_type": "急诊",
+            "symptoms": [],
+            "vitals": [
+              "体重 61.0 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 61.5 kg。患者依从性良好，指标有所改善。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-01-21T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 61.5 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 61.7 kg。病情稳定，继续保持。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-02-17T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 61.7 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0002检验报告。检验项目：",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-02-17T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.9 kg。建议继续当前治疗方案，定期复查。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-03-16T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 60.9 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0002检验报告。检验项目：",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-03-16T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.9 kg。病情稳定，继续保持。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-04-16T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 60.9 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0002检验报告。检验项目：",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-04-16T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.3 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-05-15T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 60.3 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.7 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-06-12T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 60.7 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 61.2 kg。患者依从性良好，指标有所改善。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-07-07T00:00:00",
+          "metadata": {
+            "visit_type": "急诊",
+            "symptoms": [],
+            "vitals": [
+              "体重 61.2 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.3 kg。建议继续当前治疗方案，定期复查。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-08-06T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 60.3 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者档案：P-2026-0002\n年龄：65岁，性别：女\n主诉：多饮、多尿、多食伴体重下降2年\n诊断：2型糖尿病伴糖尿病周围神经病变\n基础疾病：2型糖尿病, 糖尿病周围神经病变, 高血压1级, 骨质疏松\n当前用药：二甲双胍缓释片 0.5g bid, 格列美脲片 2mg qd, 甲钴胺片 0.5mg tid, 硝苯地平控释片 30mg qd\n过敏史：无已知药物过敏\n--- 合成演示数据 | 京东方AI黑客松 2026 ---",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址"
+          ],
+          "permission_level": "L1",
+          "timestamp": "2026-08-20T00:00:00",
+          "metadata": {
+            "profile": true
+          }
+        }
+      ],
+      "profile": {
+        "age": 65,
+        "gender": "女",
+        "diagnosis": "2型糖尿病伴糖尿病周围神经病变",
+        "conditions": [
+          "2型糖尿病",
+          "糖尿病周围神经病变",
+          "高血压1级",
+          "骨质疏松"
+        ],
+        "current_medications": [
+          "二甲双胍缓释片 0.5g bid",
+          "格列美脲片 2mg qd",
+          "甲钴胺片 0.5mg tid",
+          "硝苯地平控释片 30mg qd"
+        ]
+      }
+    },
+    {
+      "patient_id": "P-2026-0003",
+      "records": [
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.1 kg。建议加强生活方式干预，控制饮食，增加运动。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-08-25T00:00:00",
+          "metadata": {
+            "visit_type": "体检",
+            "symptoms": [],
+            "vitals": [
+              "体重 92.1 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 93.0 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-09-25T00:00:00",
+          "metadata": {
+            "visit_type": "急诊",
+            "symptoms": [],
+            "vitals": [
+              "体重 93.0 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.5 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-10-23T00:00:00",
+          "metadata": {
+            "visit_type": "体检",
+            "symptoms": [],
+            "vitals": [
+              "体重 92.5 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.9 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-11-22T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 92.9 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.6 kg。患者依从性良好，指标有所改善。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-12-21T00:00:00",
+          "metadata": {
+            "visit_type": "体检",
+            "symptoms": [],
+            "vitals": [
+              "体重 92.6 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0003检验报告。检验项目：",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2025-12-21T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.2 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-01-12T00:00:00",
+          "metadata": {
+            "visit_type": "急诊",
+            "symptoms": [],
+            "vitals": [
+              "体重 92.2 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 93.1 kg。用药调整：换药 二甲双胍片 0.5g tid。建议继续当前治疗方案，定期复查。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-02-02T00:00:00",
+          "metadata": {
+            "visit_type": "体检",
+            "symptoms": [],
+            "vitals": [
+              "体重 93.1 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0003检验报告。检验项目：",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-02-02T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.7 kg。患者依从性良好，指标有所改善。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-02-28T00:00:00",
+          "metadata": {
+            "visit_type": "体检",
+            "symptoms": [],
+            "vitals": [
+              "体重 92.7 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0003检验报告。检验项目：",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-02-28T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 93.8 kg。患者依从性良好，指标有所改善。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-03-26T00:00:00",
+          "metadata": {
+            "visit_type": "急诊",
+            "symptoms": [],
+            "vitals": [
+              "体重 93.8 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 93.0 kg。病情稳定，继续保持。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-04-24T00:00:00",
+          "metadata": {
+            "visit_type": "急诊",
+            "symptoms": [],
+            "vitals": [
+              "体重 93.0 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0003检验报告。检验项目：",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-04-24T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.3 kg。病情稳定，继续保持。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-05-22T00:00:00",
+          "metadata": {
+            "visit_type": "急诊",
+            "symptoms": [],
+            "vitals": [
+              "体重 92.3 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0003检验报告。检验项目：",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-05-22T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.3 kg。患者依从性良好，指标有所改善。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-06-19T00:00:00",
+          "metadata": {
+            "visit_type": "急诊",
+            "symptoms": [],
+            "vitals": [
+              "体重 92.3 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0003检验报告。检验项目：",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-06-19T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.6 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-07-10T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 92.6 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "检查",
+          "content": "患者P-2026-0003检验报告。检验项目：",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-07-10T00:00:00",
+          "metadata": {
+            "lab_tests": true
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.6 kg。指标波动，建议缩短随访间隔。",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址",
+            "电话号码"
+          ],
+          "permission_level": "L2",
+          "timestamp": "2026-08-07T00:00:00",
+          "metadata": {
+            "visit_type": "门诊随访",
+            "symptoms": [],
+            "vitals": [
+              "体重 92.6 kg"
+            ]
+          }
+        },
+        {
+          "record_type": "就诊",
+          "content": "患者档案：P-2026-0003\n年龄：42岁，性别：男\n主诉：体检发现血糖升高1周\n诊断：2型糖尿病（新诊断）\n基础疾病：2型糖尿病, 肥胖症, 脂肪肝\n当前用药：二甲双胍片 0.5g tid, 生活方式干预\n过敏史：无已知药物过敏\n--- 合成演示数据 | 京东方AI黑客松 2026 ---",
+          "sensitive_removed": [
+            "姓名",
+            "身份证",
+            "联系方式",
+            "住址"
+          ],
+          "permission_level": "L1",
+          "timestamp": "2026-08-20T00:00:00",
+          "metadata": {
+            "profile": true
+          }
+        }
+      ],
+      "profile": {
+        "age": 42,
+        "gender": "男",
+        "diagnosis": "2型糖尿病（新诊断）",
+        "conditions": [
+          "2型糖尿病",
+          "肥胖症",
+          "脂肪肝"
+        ],
+        "current_medications": [
+          "二甲双胍片 0.5g tid",
+          "生活方式干预"
+        ]
+      }
+    }
+  ],
+  "memories": [
+    {
+      "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：心悸, 视力模糊, 乏力。体征：血压 149/100 mmHg，体重 81.1 kg。建议继续当前治疗方案，定期复查。",
+      "timestamp": 1756051200000,
+      "title": "P-2026-0001 - 就诊 - 2025-08-25",
+      "tags": [
+        "health",
+        "health/P-2026-0001",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0001",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "体检",
+        "symptoms": [
+          "心悸",
+          "视力模糊",
+          "乏力"
+        ],
+        "vitals": [
+          "血压 149/100 mmHg",
+          "体重 81.1 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：乏力, 头晕。体征：血压 140/90 mmHg，体重 80.5 kg。用药调整：换药 苯磺酸氨氯地平片 5mg qd。建议加强生活方式干预，控制饮食，增加运动。",
+      "timestamp": 1760198400000,
+      "title": "P-2026-0001 - 就诊 - 2025-10-12",
+      "tags": [
+        "health",
+        "health/P-2026-0001",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0001",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [
+          "乏力",
+          "头晕"
+        ],
+        "vitals": [
+          "血压 140/90 mmHg",
+          "体重 80.5 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。体征：血压 123/90 mmHg，体重 81.0 kg。建议继续当前治疗方案，定期复查。",
+      "timestamp": 1764345600000,
+      "title": "P-2026-0001 - 就诊 - 2025-11-29",
+      "tags": [
+        "health",
+        "health/P-2026-0001",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0001",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "血压 123/90 mmHg",
+          "体重 81.0 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：头晕。体征：血压 120/83 mmHg，体重 80.1 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1767715200000,
+      "title": "P-2026-0001 - 就诊 - 2026-01-07",
+      "tags": [
+        "health",
+        "health/P-2026-0001",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0001",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "体检",
+        "symptoms": [
+          "头晕"
+        ],
+        "vitals": [
+          "血压 120/83 mmHg",
+          "体重 80.1 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：心悸, 头晕。体征：血压 117/82 mmHg，体重 80.3 kg。建议加强生活方式干预，控制饮食，增加运动。",
+      "timestamp": 1771689600000,
+      "title": "P-2026-0001 - 就诊 - 2026-02-22",
+      "tags": [
+        "health",
+        "health/P-2026-0001",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0001",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "急诊",
+        "symptoms": [
+          "心悸",
+          "头晕"
+        ],
+        "vitals": [
+          "血压 117/82 mmHg",
+          "体重 80.3 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：头痛, 头晕。体征：血压 104/76 mmHg，体重 81.3 kg。建议加强生活方式干预，控制饮食，增加运动。",
+      "timestamp": 1775491200000,
+      "title": "P-2026-0001 - 就诊 - 2026-04-07",
+      "tags": [
+        "health",
+        "health/P-2026-0001",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0001",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [
+          "头痛",
+          "头晕"
+        ],
+        "vitals": [
+          "血压 104/76 mmHg",
+          "体重 81.3 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：头痛, 头晕。体征：血压 102/81 mmHg，体重 81.7 kg。用药调整：换药 苯磺酸氨氯地平片 5mg qd。指标波动，建议缩短随访间隔。",
+      "timestamp": 1779033600000,
+      "title": "P-2026-0001 - 就诊 - 2026-05-18",
+      "tags": [
+        "health",
+        "health/P-2026-0001",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0001",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [
+          "头痛",
+          "头晕"
+        ],
+        "vitals": [
+          "血压 102/81 mmHg",
+          "体重 81.7 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0001检验报告。检验项目：  - 血压测量: 109/79 mmHg [↑异常]  - 心电图: 9.7 - [正常]  - 肾功能: 9.0 μmol/L [正常]  - 尿常规: 3.3 - [↑异常]",
+      "timestamp": 1779033600000,
+      "title": "P-2026-0001 - 检查 - 2026-05-18",
+      "tags": [
+        "health",
+        "health/P-2026-0001",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0001",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：视力模糊, 头晕。体征：血压 115/80 mmHg，体重 80.9 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1782576000000,
+      "title": "P-2026-0001 - 就诊 - 2026-06-28",
+      "tags": [
+        "health",
+        "health/P-2026-0001",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0001",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "体检",
+        "symptoms": [
+          "视力模糊",
+          "头晕"
+        ],
+        "vitals": [
+          "血压 115/80 mmHg",
+          "体重 80.9 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0001检验报告。检验项目：  - 血压测量: 108/78 mmHg [正常]  - 心电图: 9.8 - [↑异常]  - 肾功能: 9.0 μmol/L [正常]  - 尿常规: 5.4 - [↑异常]",
+      "timestamp": 1782576000000,
+      "title": "P-2026-0001 - 检查 - 2026-06-28",
+      "tags": [
+        "health",
+        "health/P-2026-0001",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0001",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0001，58岁男，诊断：原发性高血压2级（中危）。主诉：头痛。体征：血压 114/74 mmHg，体重 81.2 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1786809600000,
+      "title": "P-2026-0001 - 就诊 - 2026-08-16",
+      "tags": [
+        "health",
+        "health/P-2026-0001",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0001",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [
+          "头痛"
+        ],
+        "vitals": [
+          "血压 114/74 mmHg",
+          "体重 81.2 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者档案：P-2026-0001\n年龄：58岁，性别：男\n主诉：反复头晕、头痛3年，加重1个月\n诊断：原发性高血压2级（中危）\n基础疾病：高血压, 高脂血症, 轻度脂肪肝\n当前用药：苯磺酸氨氯地平片 5mg qd, 阿托伐他汀钙片 20mg qn\n过敏史：无已知药物过敏\n--- 合成演示数据 | 京东方AI黑客松 2026 ---",
+      "timestamp": 1787155200000,
+      "title": "P-2026-0001 - 就诊 - 2026-08-20",
+      "tags": [
+        "health",
+        "health/P-2026-0001",
+        "health/record_type/就诊",
+        "health/permission/L1"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0001",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L1",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "profile": true
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.7 kg。病情稳定，继续保持。",
+      "timestamp": 1756051200000,
+      "title": "P-2026-0002 - 就诊 - 2025-08-25",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 60.7 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.4 kg。建议加强生活方式干预，控制饮食，增加运动。",
+      "timestamp": 1758556800000,
+      "title": "P-2026-0002 - 就诊 - 2025-09-23",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "体检",
+        "symptoms": [],
+        "vitals": [
+          "体重 60.4 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0002检验报告。检验项目：",
+      "timestamp": 1758556800000,
+      "title": "P-2026-0002 - 检查 - 2025-09-23",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.8 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1761062400000,
+      "title": "P-2026-0002 - 就诊 - 2025-10-22",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 60.8 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0002检验报告。检验项目：",
+      "timestamp": 1761062400000,
+      "title": "P-2026-0002 - 检查 - 2025-10-22",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 61.0 kg。建议继续当前治疗方案，定期复查。",
+      "timestamp": 1763827200000,
+      "title": "P-2026-0002 - 就诊 - 2025-11-23",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 61.0 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 61.0 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1766505600000,
+      "title": "P-2026-0002 - 就诊 - 2025-12-24",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "急诊",
+        "symptoms": [],
+        "vitals": [
+          "体重 61.0 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 61.5 kg。患者依从性良好，指标有所改善。",
+      "timestamp": 1768924800000,
+      "title": "P-2026-0002 - 就诊 - 2026-01-21",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 61.5 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 61.7 kg。病情稳定，继续保持。",
+      "timestamp": 1771257600000,
+      "title": "P-2026-0002 - 就诊 - 2026-02-17",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 61.7 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0002检验报告。检验项目：",
+      "timestamp": 1771257600000,
+      "title": "P-2026-0002 - 检查 - 2026-02-17",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.9 kg。建议继续当前治疗方案，定期复查。",
+      "timestamp": 1773590400000,
+      "title": "P-2026-0002 - 就诊 - 2026-03-16",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 60.9 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0002检验报告。检验项目：",
+      "timestamp": 1773590400000,
+      "title": "P-2026-0002 - 检查 - 2026-03-16",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.9 kg。病情稳定，继续保持。",
+      "timestamp": 1776268800000,
+      "title": "P-2026-0002 - 就诊 - 2026-04-16",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 60.9 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0002检验报告。检验项目：",
+      "timestamp": 1776268800000,
+      "title": "P-2026-0002 - 检查 - 2026-04-16",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.3 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1778774400000,
+      "title": "P-2026-0002 - 就诊 - 2026-05-15",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 60.3 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.7 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1781193600000,
+      "title": "P-2026-0002 - 就诊 - 2026-06-12",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 60.7 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 61.2 kg。患者依从性良好，指标有所改善。",
+      "timestamp": 1783353600000,
+      "title": "P-2026-0002 - 就诊 - 2026-07-07",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "急诊",
+        "symptoms": [],
+        "vitals": [
+          "体重 61.2 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0002，65岁女，诊断：2型糖尿病伴糖尿病周围神经病变。体征：体重 60.3 kg。建议继续当前治疗方案，定期复查。",
+      "timestamp": 1785945600000,
+      "title": "P-2026-0002 - 就诊 - 2026-08-06",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 60.3 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者档案：P-2026-0002\n年龄：65岁，性别：女\n主诉：多饮、多尿、多食伴体重下降2年\n诊断：2型糖尿病伴糖尿病周围神经病变\n基础疾病：2型糖尿病, 糖尿病周围神经病变, 高血压1级, 骨质疏松\n当前用药：二甲双胍缓释片 0.5g bid, 格列美脲片 2mg qd, 甲钴胺片 0.5mg tid, 硝苯地平控释片 30mg qd\n过敏史：无已知药物过敏\n--- 合成演示数据 | 京东方AI黑客松 2026 ---",
+      "timestamp": 1787155200000,
+      "title": "P-2026-0002 - 就诊 - 2026-08-20",
+      "tags": [
+        "health",
+        "health/P-2026-0002",
+        "health/record_type/就诊",
+        "health/permission/L1"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0002",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L1",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "profile": true
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.1 kg。建议加强生活方式干预，控制饮食，增加运动。",
+      "timestamp": 1756051200000,
+      "title": "P-2026-0003 - 就诊 - 2025-08-25",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "体检",
+        "symptoms": [],
+        "vitals": [
+          "体重 92.1 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 93.0 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1758729600000,
+      "title": "P-2026-0003 - 就诊 - 2025-09-25",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "急诊",
+        "symptoms": [],
+        "vitals": [
+          "体重 93.0 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.5 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1761148800000,
+      "title": "P-2026-0003 - 就诊 - 2025-10-23",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "体检",
+        "symptoms": [],
+        "vitals": [
+          "体重 92.5 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.9 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1763740800000,
+      "title": "P-2026-0003 - 就诊 - 2025-11-22",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 92.9 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.6 kg。患者依从性良好，指标有所改善。",
+      "timestamp": 1766246400000,
+      "title": "P-2026-0003 - 就诊 - 2025-12-21",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "体检",
+        "symptoms": [],
+        "vitals": [
+          "体重 92.6 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003检验报告。检验项目：",
+      "timestamp": 1766246400000,
+      "title": "P-2026-0003 - 检查 - 2025-12-21",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.2 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1768147200000,
+      "title": "P-2026-0003 - 就诊 - 2026-01-12",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "急诊",
+        "symptoms": [],
+        "vitals": [
+          "体重 92.2 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 93.1 kg。用药调整：换药 二甲双胍片 0.5g tid。建议继续当前治疗方案，定期复查。",
+      "timestamp": 1769961600000,
+      "title": "P-2026-0003 - 就诊 - 2026-02-02",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "体检",
+        "symptoms": [],
+        "vitals": [
+          "体重 93.1 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003检验报告。检验项目：",
+      "timestamp": 1769961600000,
+      "title": "P-2026-0003 - 检查 - 2026-02-02",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.7 kg。患者依从性良好，指标有所改善。",
+      "timestamp": 1772208000000,
+      "title": "P-2026-0003 - 就诊 - 2026-02-28",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "体检",
+        "symptoms": [],
+        "vitals": [
+          "体重 92.7 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003检验报告。检验项目：",
+      "timestamp": 1772208000000,
+      "title": "P-2026-0003 - 检查 - 2026-02-28",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 93.8 kg。患者依从性良好，指标有所改善。",
+      "timestamp": 1774454400000,
+      "title": "P-2026-0003 - 就诊 - 2026-03-26",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "急诊",
+        "symptoms": [],
+        "vitals": [
+          "体重 93.8 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 93.0 kg。病情稳定，继续保持。",
+      "timestamp": 1776960000000,
+      "title": "P-2026-0003 - 就诊 - 2026-04-24",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "急诊",
+        "symptoms": [],
+        "vitals": [
+          "体重 93.0 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003检验报告。检验项目：",
+      "timestamp": 1776960000000,
+      "title": "P-2026-0003 - 检查 - 2026-04-24",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.3 kg。病情稳定，继续保持。",
+      "timestamp": 1779379200000,
+      "title": "P-2026-0003 - 就诊 - 2026-05-22",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "急诊",
+        "symptoms": [],
+        "vitals": [
+          "体重 92.3 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003检验报告。检验项目：",
+      "timestamp": 1779379200000,
+      "title": "P-2026-0003 - 检查 - 2026-05-22",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.3 kg。患者依从性良好，指标有所改善。",
+      "timestamp": 1781798400000,
+      "title": "P-2026-0003 - 就诊 - 2026-06-19",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "急诊",
+        "symptoms": [],
+        "vitals": [
+          "体重 92.3 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003检验报告。检验项目：",
+      "timestamp": 1781798400000,
+      "title": "P-2026-0003 - 检查 - 2026-06-19",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.6 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1783612800000,
+      "title": "P-2026-0003 - 就诊 - 2026-07-10",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 92.6 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者P-2026-0003检验报告。检验项目：",
+      "timestamp": 1783612800000,
+      "title": "P-2026-0003 - 检查 - 2026-07-10",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/检查",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "检查",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "lab_tests": true
+      }
+    },
+    {
+      "content": "患者P-2026-0003，42岁男，诊断：2型糖尿病（新诊断）。体征：体重 92.6 kg。指标波动，建议缩短随访间隔。",
+      "timestamp": 1786032000000,
+      "title": "P-2026-0003 - 就诊 - 2026-08-07",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L2"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L2",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址",
+          "电话号码"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "visit_type": "门诊随访",
+        "symptoms": [],
+        "vitals": [
+          "体重 92.6 kg"
+        ]
+      }
+    },
+    {
+      "content": "患者档案：P-2026-0003\n年龄：42岁，性别：男\n主诉：体检发现血糖升高1周\n诊断：2型糖尿病（新诊断）\n基础疾病：2型糖尿病, 肥胖症, 脂肪肝\n当前用药：二甲双胍片 0.5g tid, 生活方式干预\n过敏史：无已知药物过敏\n--- 合成演示数据 | 京东方AI黑客松 2026 ---",
+      "timestamp": 1787155200000,
+      "title": "P-2026-0003 - 就诊 - 2026-08-20",
+      "tags": [
+        "health",
+        "health/P-2026-0003",
+        "health/record_type/就诊",
+        "health/permission/L1"
+      ],
+      "metadata": {
+        "patient_id": "P-2026-0003",
+        "record_type": "就诊",
+        "source": "gold-desensitized",
+        "permission_level": "L1",
+        "sensitive_removed": [
+          "姓名",
+          "身份证",
+          "联系方式",
+          "住址"
+        ],
+        "synthetic": true,
+        "demo_source": "京东方AI黑客松2026",
+        "profile": true
+      }
+    }
+  ],
+  "metadata": {
+    "source": "synthetic_demo",
+    "demo_source": "京东方AI黑客松2026",
+    "generated_at": "2026-08-20T00:00:00",
+    "total_patients": 3,
+    "compliance": {
+      "synthetic_data": true,
+      "desensitized": true,
+      "for_demo_only": true,
+      "not_for_diagnosis": true
+    },
+    "total_records": 53
+  }
+}
