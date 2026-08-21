@@ -43,7 +43,10 @@ from typing import Any, Dict, List, Optional, Tuple
 
 # ─── 路径配置 ────────────────────────────────────────────────────────────────
 
-BASE_DIR = Path("F:/SelfBrain")
+# BASE_DIR = 仓库根目录（脚本位于 src/ 下，上一级即仓库根）
+# 兼容：优先用环境变量 SELFBRAIN_BOE_ROOT，否则用脚本位置推导
+import os as _os
+BASE_DIR = Path(_os.environ.get("SELFBRAIN_BOE_ROOT", str(Path(__file__).resolve().parent.parent)))
 SRC_DIR = BASE_DIR / "src"
 DATA_DIR = BASE_DIR / "data" / "medical"
 OUTPUT_DIR = BASE_DIR / "scripts" / "training_data"
